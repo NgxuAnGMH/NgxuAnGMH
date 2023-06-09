@@ -3,9 +3,9 @@
 
 
 
-![GitHub stats](https://cmx-github-readme-stats.vercel.app/api?username=NgxuAnGMH&show_icons=true&theme=calm&hide_border=true&locale=cn&hide_title=true) ![Top Langs](https://cmx-github-readme-stats.vercel.app/api/top-langs/?username=NgxuAnGMH&show_icons=true&theme=calm&hide_border=true&layout=compact) 
+![GitHub stats](https://cmx-github-readme-stats.vercel.app/api?username=NgxuAnGMH&show_icons=true&theme=darcula&hide_border=true&locale=cn&hide_title=true) ![Top Langs](https://cmx-github-readme-stats.vercel.app/api/top-langs/?username=NgxuAnGMH&show_icons=true&theme=darcula&hide_border=true&layout=compact) 
 
-![Readme Card](https://cmx-github-readme-stats.vercel.app/api/pin/?username=NgxuAnGMH&repo=miniSpring&show_icons=true&theme=calm&hide_border=true&hide_title=true) 
+![Readme Card](https://cmx-github-readme-stats.vercel.app/api/pin/?username=NgxuAnGMH&repo=miniSpring&show_icons=true&theme=darcula&hide_border=true&hide_title=true) 
 
 
 
